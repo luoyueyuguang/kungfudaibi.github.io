@@ -42,6 +42,21 @@ huggingface 是一个开源的模型库，里面有很多预训练的模型，�
 需要魔法访问
 :::
 - 中文竞技场
+
+### 大模型相关课程
+- [斯坦福 CS336: Language Modeling from Scratch](https://web.stanford.edu/class/cs336/)
+  - [CS336 中文版（B站）](https://www.bilibili.com/video/BV1WZ5M6iE42)
+:::tip
+一门从零手写完整语言模型的课：tokenizer → transformer → 训练 → 评测 → 对齐，涉及 PyTorch、多卡并行和 Triton 内核。想搞懂大模型内部原理必学，但实现量极大，需要扎实的 Python/PyTorch 功底，最好有 GPU。
+:::
+- [Hugging Face LLM Course](https://huggingface.co/learn/llm-course)
+:::warning
+需要魔法访问
+:::
+- [DataWhale 大模型 cookbook](https://github.com/datawhalechina/llm-cookbook)
+:::tip
+吴恩达大模型系列课程中文版，面向开发者的入门教程，从 prompt engineering 到微调、RAG 应用全覆盖，免费且适合入门。
+:::
 ## 跑一个大模型
 :::tip
 首先要搞清楚自己的电脑的配置，比如内存，显存等等，模型的主页会显示部署它的最小需求
