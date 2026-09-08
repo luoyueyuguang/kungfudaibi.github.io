@@ -1,7 +1,7 @@
 ---
 home: true
 title: Home
-heroImage: /image/logo.png
+heroImage: /image/logo.svg
 actions:
   - text: Getting Started
     link: /en/introduction.md
