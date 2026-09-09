@@ -1,7 +1,7 @@
 ---
 home: true
 title: Home
-heroImage: /image/logo.png
+heroImage: /image/logo.svg
 actions:
   - text: Get Start
     link: /foreword.md

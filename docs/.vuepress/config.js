@@ -18,7 +18,7 @@ export default defineUserConfig({
     },
   },
   theme: defaultTheme({
-    logo: '/image/logo.png',
+    logo: '/image/logo.svg',
     locales: {
       '/': {
         selectLanguageName: '简体中文',
